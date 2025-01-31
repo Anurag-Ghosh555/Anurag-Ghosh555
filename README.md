@@ -1,6 +1,6 @@
 ## Holla Amigos >_<
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ab/8e/30/ab8e300aad19162dc27993c22adf267b.gif" width="500">
+  <img src="https://i.pinimg.com/originals/ab/8e/30/ab8e300aad19162dc27993c22adf267b.gif" width="700">
 </p>
 
 - Fun fact: Eggs lay chickens
