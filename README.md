@@ -7,20 +7,19 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://linkedin.com/in/anurag-ghosh-9a2479290" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-ghosh-9a2479290" height="30" width="40" />
+  <a href="https://linkedin.com/in/anurag-ghosh-9a2479290" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" width="100" />
   </a>
-  <a href="https://www.codechef.com/users/cookanurag" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cookanurag" height="30" width="40" />
+  <a href="https://www.hackerrank.com/ag9490" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/HackerRank-%2300B689.svg?logo=hackerrank&logoColor=white" height="30" width="100" />
   </a>
-  <a href="https://www.hackerrank.com/ag9490" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ag9490" height="30" width="40" />
+  <a href="https://www.leetcode.com/anuragleetghosh" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" height="30" width="100" />
   </a>
-  <a href="https://www.leetcode.com/anuragleetghosh" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anuragleetghosh" height="30" width="40" />
+  <a href="https://www.codechef.com/users/cookanurag" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/CodeChef-%23CC0000.svg?logo=codechef&logoColor=white" height="30" width="100" />
   </a>
 </p>
-
 
 # 💻 Tech Stack:
 <p align="center">
