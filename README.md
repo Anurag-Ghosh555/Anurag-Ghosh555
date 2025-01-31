@@ -8,16 +8,16 @@
 ## 🌐 Socials:
 <p align="center">
   <a href="https://linkedin.com/in/anurag-ghosh-9a2479290" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" width="100" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" width="120" />
   </a>
   <a href="https://www.hackerrank.com/ag9490" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/HackerRank-%2300B689.svg?logo=hackerrank&logoColor=white" height="30" width="100" />
+    <img src="https://img.shields.io/badge/HackerRank-%23008C3F.svg?logo=hackerrank&logoColor=white" height="30" width="120" />
   </a>
   <a href="https://www.leetcode.com/anuragleetghosh" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" height="30" width="100" />
+    <img src="https://img.shields.io/badge/LeetCode-%23FF5722.svg?logo=leetcode&logoColor=white" height="30" width="120" />
   </a>
   <a href="https://www.codechef.com/users/cookanurag" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/CodeChef-%23A52A2A.svg?logo=codechef&logoColor=white" height="30" width="100" />
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?logo=codechef&logoColor=white" height="30" width="120" />
   </a>
 </p>
 
