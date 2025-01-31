@@ -17,11 +17,11 @@
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" height="30" width="100" />
   </a>
   <a href="https://www.codechef.com/users/cookanurag" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/CodeChef-%23CC0000.svg?logo=codechef&logoColor=white" height="30" width="100" />
+    <img src="https://img.shields.io/badge/CodeChef-%23A52A2A.svg?logo=codechef&logoColor=white" height="30" width="100" />
   </a>
 </p>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" height="30" width="100">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" height="30" width="100">
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" height="30" width="100">
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anurag-Ghosh555&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false"><br/>
