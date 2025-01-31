@@ -3,7 +3,9 @@
   <img src="https://i.pinimg.com/originals/ab/8e/30/ab8e300aad19162dc27993c22adf267b.gif" width="700">
 </p>
 
-- Fun fact: Eggs lay chickens
+<p align="center">
+  <strong><span style="font-size: 24px;">Fun fact: Eggs lay chickens</span></strong>
+</p>
 
 ## 🌐 Socials:
 <p align="center">
