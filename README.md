@@ -24,21 +24,21 @@
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" height="30" width="90">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" height="30" width="90">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" height="30" width="90">
-  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" height="30" width="90">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" height="30" width="90">
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white" height="30" width="90">
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white" height="30" width="90">
-  <img src="https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white" height="30" width="90">
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white" height="30" width="90">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" height="30" width="90">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" height="30" width="90">
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white" height="30" width="90">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" height="30" width="90">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" height="30" width="90">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" height="30" width="90">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" height="30" width="100">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" height="30" width="100">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" height="30" width="100">
+  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" height="30" width="100">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" height="30" width="100">
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white" height="30" width="100">
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white" height="30" width="100">
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white" height="30" width="100">
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white" height="30" width="100">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" height="30" width="100">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" height="30" width="100">
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white" height="30" width="100">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" height="30" width="100">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" height="30" width="100">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" height="30" width="100">
 </p>
 
 # 📊 GitHub Stats:
