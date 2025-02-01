@@ -1,6 +1,6 @@
 ## Holla Amigos >_<
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ab/8e/30/ab8e300aad19162dc27993c22adf267b.gif" width="700">
+  <img src="https://64.media.tumblr.com/88c75513be3f458152891e38959ef3ff/tumblr_p8kvhnKXHJ1wua17to1_540.gif" width="700">
 </p>
 
 <p align="center">
